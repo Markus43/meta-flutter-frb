@@ -12,7 +12,7 @@ SECTION = "graphics"
 LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=480e9b5af92d888295493a5cc7f2238e"
 
-SRCREV = "834239f5621726ecba2cb039476efbd0dc1c6ebd"
+SRCREV = "42f8102622fd6abd1945f2f037e876ee7bc0daae"
 SRC_URI = " \
     gitsm://github.com/fzyzcjy/flutter_rust_bridge;lfs=0;nobranch=1;protocol=https;destsuffix=git \
     file://flutter_rust_bridge/0001-gallery-updates.patch \
